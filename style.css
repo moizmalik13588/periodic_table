@@ -1,0 +1,149 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+.pink{
+    background-color: rgb(231, 97, 97);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+}
+h4{
+    font-size: 7px;
+    margin: -10px;
+}
+.lightpink{
+    background-color: rgb(235, 150, 162);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+  
+
+
+}
+.blue{
+    background-color: rgb(87, 195, 231);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 0px;
+    width: 0px;
+
+
+}
+.lightGreen{
+    background-color: rgb(179, 206, 136);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.Green{
+    background-color: lightgreen;
+    font-family: sans-serif
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+}
+.darkBlue{
+    background-color: rgb(159, 123, 226);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.lightPink{
+    background-color: rgb(240, 119, 72);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.purple{
+    background-color: rgb(218, 141, 218);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.lightPurple{
+    background-color: rgb(212, 179, 212);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.orange{
+    background-color: rgb(216, 157, 46);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.yellow{
+    background-color: rgb(240, 206, 112);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
+.lightBlue{
+    background-color: rgb(55, 197, 197);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 2px;
+    height: 1px;
+    width: 1px;
+
+
+}
